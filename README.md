@@ -326,4 +326,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Zillow API to power your data workflows with reliable, structured results.*
 
-Last Updated: 2026.09.05
+Last Updated: 2026.09.20
